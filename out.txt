@@ -1,0 +1,480 @@
+Thread
+8
+Dataset Size
+1.25g
+i=0
+Number of threads: 8
+File size: 1.25g
+Record size: 64k
+Workload: 0
+time in seconds: 17.000000
+throughput: 470.59474
+latency: 114891.29412
+Total_file_size: 8000110592
+i=1
+Number of threads: 8
+File size: 1.25g
+Record size: 64k
+Workload: 1
+time in seconds: 21.000000
+throughput: 380.95765
+latency: 93007.23810
+Total_file_size: 8000110592
+i=2
+Number of threads: 8
+File size: 1.25g
+Record size: 64k
+Workload: 2
+time in seconds: 17.000000
+throughput: 470.59474
+latency: 114891.29412
+Total_file_size: 8000110592
+i=3
+Number of threads: 8
+File size: 1.25g
+Record size: 64k
+Workload: 3
+time in seconds: 21.000000
+throughput: 380.95765
+latency: 93007.23810
+Total_file_size: 8000110592
+Thread
+8
+Dataset Size
+1.25g
+i=0
+Number of threads: 8
+File size: 1.25g
+Record size: 1m
+Workload: 0
+time in seconds: 17.000000
+throughput: 470.82797
+latency: 114948.23529
+Total_file_size: 8004075520
+i=1
+Number of threads: 8
+File size: 1.25g
+Record size: 1m
+Workload: 1
+time in seconds: 19.000000
+throughput: 421.26713
+latency: 102848.42105
+Total_file_size: 8004075520
+i=2
+Number of threads: 8
+File size: 1.25g
+Record size: 1m
+Workload: 2
+time in seconds: 17.000000
+throughput: 470.82797
+latency: 114948.23529
+Total_file_size: 8004075520
+i=3
+Number of threads: 8
+File size: 1.25g
+Record size: 1m
+Workload: 3
+time in seconds: 19.000000
+throughput: 421.26713
+latency: 102848.42105
+Total_file_size: 8004075520
+Thread
+8
+Dataset Size
+1.25g
+i=0
+Number of threads: 8
+File size: 1.25g
+Record size: 16m
+Workload: 0
+time in seconds: 17.000000
+throughput: 474.44402
+latency: 115831.05882
+Total_file_size: 8065548288
+i=1
+Number of threads: 8
+File size: 1.25g
+Record size: 16m
+Workload: 1
+time in seconds: 20.000000
+throughput: 403.27741
+latency: 98456.40000
+Total_file_size: 8065548288
+i=2
+Number of threads: 8
+File size: 1.25g
+Record size: 16m
+Workload: 2
+time in seconds: 17.000000
+throughput: 474.44402
+latency: 115831.05882
+Total_file_size: 8065548288
+i=3
+Number of threads: 8
+File size: 1.25g
+Record size: 16m
+Workload: 3
+time in seconds: 20.000000
+throughput: 403.27741
+latency: 98456.40000
+Total_file_size: 8065548288
+Thread
+12
+Dataset Size
+833.33m
+i=0
+Number of threads: 12
+File size: 833.33m
+Record size: 64k
+Workload: 0
+time in seconds: 20.000000
+throughput: 499.81686
+latency: 122025.60000
+Total_file_size: 9996337152
+i=1
+Number of threads: 12
+File size: 833.33m
+Record size: 64k
+Workload: 1
+time in seconds: 25.000000
+throughput: 399.85349
+latency: 97620.48000
+Total_file_size: 9996337152
+i=2
+Number of threads: 12
+File size: 833.33m
+Record size: 64k
+Workload: 2
+time in seconds: 21.000000
+throughput: 476.01605
+latency: 116214.85714
+Total_file_size: 9996337152
+i=3
+Number of threads: 12
+File size: 833.33m
+Record size: 64k
+Workload: 3
+time in seconds: 25.000000
+throughput: 399.85349
+latency: 97620.48000
+Total_file_size: 9996337152
+Thread
+12
+Dataset Size
+833.33m
+i=0
+Number of threads: 12
+File size: 833.33m
+Record size: 1m
+Workload: 0
+time in seconds: 21.000000
+throughput: 476.52864
+latency: 116340.00000
+Total_file_size: 10007101440
+i=1
+Number of threads: 12
+File size: 833.33m
+Record size: 1m
+Workload: 1
+time in seconds: 24.000000
+throughput: 416.96256
+latency: 101797.50000
+Total_file_size: 10007101440
+i=2
+Number of threads: 12
+File size: 833.33m
+Record size: 1m
+Workload: 2
+time in seconds: 21.000000
+throughput: 476.52864
+latency: 116340.00000
+Total_file_size: 10007101440
+i=3
+Number of threads: 12
+File size: 833.33m
+Record size: 1m
+Workload: 3
+time in seconds: 24.000000
+throughput: 416.96256
+latency: 101797.50000
+Total_file_size: 10007101440
+Thread
+12
+Dataset Size
+833.33m
+i=0
+Number of threads: 12
+File size: 833.33m
+Record size: 16m
+Workload: 0
+time in seconds: 22.000000
+throughput: 462.63426
+latency: 112947.81818
+Total_file_size: 10177953792
+i=1
+Number of threads: 12
+File size: 833.33m
+Record size: 16m
+Workload: 1
+time in seconds: 25.000000
+throughput: 407.11815
+latency: 99394.08000
+Total_file_size: 10177953792
+i=2
+Number of threads: 12
+File size: 833.33m
+Record size: 16m
+Workload: 2
+time in seconds: 47.000000
+throughput: 216.55221
+latency: 52869.19149
+Total_file_size: 10177953792
+i=3
+Number of threads: 12
+File size: 833.33m
+Record size: 16m
+Workload: 3
+time in seconds: 26.000000
+throughput: 391.45976
+latency: 95571.23077
+Total_file_size: 10177953792
+Thread
+24
+Dataset Size
+416.67m
+i=0
+Number of threads: 24
+File size: 416.67m
+Record size: 64k
+Workload: 0
+time in seconds: 37.000000
+throughput: 269.85245
+latency: 65881.94595
+Total_file_size: 9984540672
+i=1
+Number of threads: 24
+File size: 416.67m
+Record size: 64k
+Workload: 1
+time in seconds: 24.000000
+throughput: 416.02253
+latency: 101568.00000
+Total_file_size: 9984540672
+i=2
+Number of threads: 24
+File size: 416.67m
+Record size: 64k
+Workload: 2
+time in seconds: 39.000000
+throughput: 256.01386
+latency: 62503.38462
+Total_file_size: 9984540672
+i=3
+Number of threads: 24
+File size: 416.67m
+Record size: 64k
+Workload: 3
+time in seconds: 24.000000
+throughput: 416.02253
+latency: 101568.00000
+Total_file_size: 9984540672
+Thread
+24
+Dataset Size
+416.67m
+i=0
+Number of threads: 24
+File size: 416.67m
+Record size: 1m
+Workload: 0
+time in seconds: 22.000000
+throughput: 454.32087
+latency: 110918.18182
+Total_file_size: 9995059200
+i=1
+Number of threads: 24
+File size: 416.67m
+Record size: 1m
+Workload: 1
+time in seconds: 24.000000
+throughput: 416.46080
+latency: 101675.00000
+Total_file_size: 9995059200
+i=2
+Number of threads: 24
+File size: 416.67m
+Record size: 1m
+Workload: 2
+time in seconds: 43.000000
+throughput: 232.44324
+latency: 56748.83721
+Total_file_size: 9995059200
+i=3
+Number of threads: 24
+File size: 416.67m
+Record size: 1m
+Workload: 3
+time in seconds: 24.000000
+throughput: 416.46080
+latency: 101675.00000
+Total_file_size: 9995059200
+Thread
+24
+Dataset Size
+416.67m
+i=0
+Number of threads: 24
+File size: 416.67m
+Record size: 16m
+Workload: 0
+time in seconds: 30.000000
+throughput: 332.86390
+latency: 81265.60000
+Total_file_size: 9985916928
+i=1
+Number of threads: 24
+File size: 416.67m
+Record size: 16m
+Workload: 1
+time in seconds: 23.000000
+throughput: 434.17030
+latency: 105998.60870
+Total_file_size: 9985916928
+i=2
+Number of threads: 24
+File size: 416.67m
+Record size: 16m
+Workload: 2
+time in seconds: 42.000000
+throughput: 237.75993
+latency: 58046.85714
+Total_file_size: 9985916928
+i=3
+Number of threads: 24
+File size: 416.67m
+Record size: 16m
+Workload: 3
+time in seconds: 24.000000
+throughput: 416.07987
+latency: 101582.00000
+Total_file_size: 9985916928
+Thread
+48
+Dataset Size
+208.33m
+i=0
+Number of threads: 48
+File size: 208.33m
+Record size: 64k
+Workload: 0
+time in seconds: 46.000000
+throughput: 217.05523
+latency: 52992.00000
+Total_file_size: 9984540672
+i=1
+Number of threads: 48
+File size: 208.33m
+Record size: 64k
+Workload: 1
+time in seconds: 24.000000
+throughput: 416.02253
+latency: 101568.00000
+Total_file_size: 9984540672
+i=2
+Number of threads: 48
+File size: 208.33m
+Record size: 64k
+Workload: 2
+time in seconds: 41.000000
+throughput: 243.52538
+latency: 59454.43902
+Total_file_size: 9984540672
+i=3
+Number of threads: 48
+File size: 208.33m
+Record size: 64k
+Workload: 3
+time in seconds: 25.000000
+throughput: 399.38163
+latency: 97505.28000
+Total_file_size: 9984540672
+Thread
+48
+Dataset Size
+208.33m
+i=0
+Number of threads: 48
+File size: 208.33m
+Record size: 1m
+Workload: 0
+time in seconds: 37.000000
+throughput: 270.78767
+latency: 66110.27027
+Total_file_size: 10019143680
+i=1
+Number of threads: 48
+File size: 208.33m
+Record size: 1m
+Workload: 1
+time in seconds: 24.000000
+throughput: 417.46432
+latency: 101920.00000
+Total_file_size: 10019143680
+i=2
+Number of threads: 48
+File size: 208.33m
+Record size: 1m
+Workload: 2
+time in seconds: 40.000000
+throughput: 250.47859
+latency: 61152.00000
+Total_file_size: 10019143680
+i=3
+Number of threads: 48
+File size: 208.33m
+Record size: 1m
+Workload: 3
+time in seconds: 24.000000
+throughput: 417.46432
+latency: 101920.00000
+Total_file_size: 10019143680
+Thread
+48
+Dataset Size
+208.33m
+i=0
+Number of threads: 48
+File size: 208.33m
+Record size: 16m
+Workload: 0
+time in seconds: 32.000000
+throughput: 312.05990
+latency: 76186.50000
+Total_file_size: 9985916928
+i=1
+Number of threads: 48
+File size: 208.33m
+Record size: 16m
+Workload: 1
+time in seconds: 24.000000
+throughput: 416.07987
+latency: 101582.00000
+Total_file_size: 9985916928
+i=2
+Number of threads: 48
+File size: 208.33m
+Record size: 16m
+Workload: 2
+time in seconds: 35.000000
+throughput: 285.31191
+latency: 69656.22857
+Total_file_size: 9985916928
+i=3
+Number of threads: 48
+File size: 208.33m
+Record size: 16m
+Workload: 3
+time in seconds: 23.000000
+throughput: 434.17030
+latency: 105998.60870
+Total_file_size: 9985916928
